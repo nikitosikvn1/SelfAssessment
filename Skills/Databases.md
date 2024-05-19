@@ -1,87 +1,87 @@
 ## Databases
 
 - Theory and concepts
-  - Data types c
-  - Performance tuning e
-  - Migrations e
-  - Schema versioning k
-  - Backup and recovery e
-  - Database scalability e
-  - Relational databases e
-  - Key-value store e
-  - Tuple store e
-  - Graph databases h
-  - Object databases h
-  - Column databases k
+  - Data types: 🚀 constructed
+  - Performance tuning: 🙋 explained
+  - Migrations: 🙋 explained
+  - Schema versioning: 🎓 known
+  - Backup and recovery: 🙋 explained
+  - Database scalability: 🙋 explained
+  - Relational databases: 🙋 explained
+  - Key-value store: 🙋 explained
+  - Tuple store: 🙋 explained
+  - Graph databases: 👂 heard
+  - Object databases: 👂 heard
+  - Column databases: 🎓 known
   - Navigational databases
   - Hierarchical databases
-  - In-memory databases e
+  - In-memory databases: 🙋 explained
   - Inverted index
-  - Data control language (DCL) e
-  - Data definition language (DDL) e
-  - Data manipulation language (DML) e
-  - Data query language (DQL) e
+  - Data control language (DCL): 🙋 explained
+  - Data definition language (DDL): 🙋 explained
+  - Data manipulation language (DML): 🙋 explained
+  - Data query language (DQL): 🙋 explained
 - Relational
-  - Entity-Relationship Diagram e
-  - Normal forms e
-  - Indexing e
-  - Primary keys e
-  - Foreign keys e
-  - Transactions e
-  - Views e
-  - Subqueries e
-  - Stored procedures e
-  - SQL functions e
-  - Materialized views h
-  - Replications e
-  - Virtualization h
+  - Entity-Relationship Diagram: 🙋 explained
+  - Normal forms: 🙋 explained
+  - Indexing: 🙋 explained
+  - Primary keys: 🙋 explained
+  - Foreign keys: 🙋 explained
+  - Transactions: 🙋 explained
+  - Views: 🙋 explained
+  - Subqueries: 🙋 explained
+  - Stored procedures: 🙋 explained
+  - SQL functions: 🙋 explained
+  - Materialized views: 👂 heard
+  - Replications: 🙋 explained
+  - Virtualization: 👂 heard
 - SQL
-  - `SELECT` e
-  - `INSERT` e
-  - `UPDATE` e
-  - `DELETE` e
-  - `LIMIT` e
+  - `SELECT`: 🙋 explained
+  - `INSERT`: 🙋 explained
+  - `UPDATE`: 🙋 explained
+  - `DELETE`: 🙋 explained
+  - `LIMIT`: 🙋 explained
   - `OFFSET`
-  - `ORDER BY` e
+  - `ORDER BY`: 🙋 explained
   - `GROUP BY`
   - `HAVING`
-  - `EXISTS` e
-  - `JOIN` e
-  - `INNER JOIN` e
-  - `LEFT JOIN` e
-  - `RIGHT JOIN` e
+  - `EXISTS`: 🙋 explained
+  - `JOIN`: 🙋 explained
+  - `INNER JOIN`: 🙋 explained
+  - `LEFT JOIN`: 🙋 explained
+  - `RIGHT JOIN`: 🙋 explained
   - `UNION`
   - `DISTINCT`
-  - `WHERE` e
-  - `LIKE` e
-  - `IN` e
-  - `BETWEEN` e
-  - `CREATE TABLE` e
-  - `ALTER TABLE` e
-  - `DROP TABLE` e
-  - `PRIMARY KEY` e
-  - `FOREIGN KEY` e
-  - `CHECK` e
-  - `DEFAULT` e
+  - `WHERE`: 🙋 explained
+  - `LIKE`: 🙋 explained
+  - `IN`: 🙋 explained
+  - `BETWEEN`: 🙋 explained
+  - `CREATE TABLE`: 🙋 explained
+  - `ALTER TABLE`: 🙋 explained
+  - `DROP TABLE`: 🙋 explained
+  - `PRIMARY KEY`: 🙋 explained
+  - `FOREIGN KEY`: 🙋 explained
+  - `CHECK`: 🙋 explained
+  - `DEFAULT`: 🙋 explained
   - `INDEX`
-  - `UNIQUE` e
+  - `UNIQUE`: 🙋 explained
   - `GRANT`
   - `REVOKE`
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL e
-  - Oracle k
-  - MySQL k
-  - MariaDB k
-  - MS SQL Server k
-  - Redis e
+  - PostgreSQL: 🙋 explained
+  - Oracle: 🎓 known
+  - MySQL: 🎓 known
+  - MariaDB: 🎓 known
+  - MS SQL Server: 🎓 known
+  - Redis: 🙋 explained
   - Rabbit
-  - MongoDB k
+  - MongoDB: 🎓 known
   - Memcached
   - Riak
   - DB2
-  - SQLite e
+  - SQLite: 🙋 explained
   - DynamoDB
   - Firebase
 - Data engineering
@@ -89,6 +89,6 @@
   - Business intelligence
   - Big data
   - Data analysis
-  - AI tools e
+  - AI tools: 🙋 explained
   - Cloud databases
-  - Data Visualization e
+  - Data Visualization: 🙋 explained
