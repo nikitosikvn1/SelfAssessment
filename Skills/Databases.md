@@ -41,17 +41,17 @@
   - `UPDATE`: 🙋 explained
   - `DELETE`: 🙋 explained
   - `LIMIT`: 🙋 explained
-  - `OFFSET`
+  - `OFFSET`: 🙋 explained
   - `ORDER BY`: 🙋 explained
-  - `GROUP BY`
-  - `HAVING`
+  - `GROUP BY`: 🙋 explained
+  - `HAVING`: 🙋 explained
   - `EXISTS`: 🙋 explained
   - `JOIN`: 🙋 explained
   - `INNER JOIN`: 🙋 explained
   - `LEFT JOIN`: 🙋 explained
   - `RIGHT JOIN`: 🙋 explained
-  - `UNION`
-  - `DISTINCT`
+  - `UNION`: 🙋 explained
+  - `DISTINCT`: 🙋 explained
   - `WHERE`: 🙋 explained
   - `LIKE`: 🙋 explained
   - `IN`: 🙋 explained
@@ -63,12 +63,12 @@
   - `FOREIGN KEY`: 🙋 explained
   - `CHECK`: 🙋 explained
   - `DEFAULT`: 🙋 explained
-  - `INDEX`
+  - `INDEX`: 🙋 explained
   - `UNIQUE`: 🙋 explained
-  - `GRANT`
-  - `REVOKE`
-  - `DENY`
-  - `EXPLAIN`
+  - `GRANT`: 🙋 explained
+  - `REVOKE`: 🙋 explained
+  - `DENY`: 🙋 explained
+  - `EXPLAIN`: 🙋 explained
 - Engines
   - PostgreSQL: 🙋 explained
   - Oracle: 🎓 known
@@ -78,17 +78,17 @@
   - Redis: 🙋 explained
   - Rabbit
   - MongoDB: 🎓 known
-  - Memcached
+  - Memcached: 👂 heard
   - Riak
   - DB2
   - SQLite: 🙋 explained
-  - DynamoDB
-  - Firebase
+  - DynamoDB: 👂 heard
+  - Firebase: 👂 heard
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data
-  - Data analysis
+  - Big data: 🙋 explained
+  - Data analysis: 🙋 explained
   - AI tools: 🙋 explained
   - Cloud databases
   - Data Visualization: 🙋 explained

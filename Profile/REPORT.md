@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-596&nbsp;/&nbsp;731&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/nikitosikvn1/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-608&nbsp;/&nbsp;731&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/nikitosikvn1/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-596&nbsp;/&nbsp;731&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/nikitosikvn1/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-608&nbsp;/&nbsp;731&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/nikitosikvn1/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/nikitosikvn1/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-596&nbsp;/&nbsp;731&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/nikitosikvn1/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-608&nbsp;/&nbsp;731&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -24,8 +24,8 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `25` | `28` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `18` | `30` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Runtimes and virtual machines | `2` | `5` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `8` | `13` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Standards | `7` | `15` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `13` | `13` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Standards | `11` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Language | `53` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `19` | `19` |
@@ -37,7 +37,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `16` | `20` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `15` | `18` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async adapters and utils | `4` | `5` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Async abstractions interfaces | `7` | `11` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Async abstractions interfaces | `10` | `11` |
 | &nbsp;&nbsp;&nbsp;&nbsp; JavaScript & Node.js specific | `8` | `17` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Techniques | `4` | `10` |
 | [NodeJS](/Skills/NodeJS.md) | | |
@@ -106,7 +106,6 @@ Total: you have `86` of `98` skills, `12` to be upgraded, and `84` above needed
 | asyncify | 👂 heard | ⟶  | 🎓 known |
 | Transform | 👂 heard | ⟶  | 🖐️ used |
 | Async Collector | 🤷 unknown | ⟶  | 🎓 known |
-| Semaphore | 🤷 unknown | ⟶  | 👂 heard |
 | `setImmediate` | 👂 heard | ⟶  | 🖐️ used |
 | `nextTick` | 👂 heard | ⟶  | 🖐️ used |
 | AbortController | 🤷 unknown | ⟶  | 🖐️ used |
@@ -122,7 +121,7 @@ Total: you have `86` of `98` skills, `12` to be upgraded, and `84` above needed
 | Promise.any | 🤷 unknown | ⟶  | 🖐️ used |
 | Revealing constructor | 🤷 unknown | ⟶  | 🎓 known |
 
-Total: you have `29` of `50` skills, `21` to be upgraded, and `27` above needed
+Total: you have `30` of `50` skills, `20` to be upgraded, and `28` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -158,9 +157,6 @@ Total: you have `21` of `37` skills, `16` to be upgraded, and `19` above needed
 | asyncify | 👂 heard | ⟶  | 🖐️ used |
 | Transform | 👂 heard | ⟶  | 🖐️ used |
 | Async Collector | 🤷 unknown | ⟶  | 🖐️ used |
-| Semaphore | 🤷 unknown | ⟶  | 🖐️ used |
-| Mutex | 🤷 unknown | ⟶  | 🎓 known |
-| Spin Lock | 🤷 unknown | ⟶  | 🎓 known |
 | `setImmediate` | 👂 heard | ⟶  | 🖐️ used |
 | `nextTick` | 👂 heard | ⟶  | 🖐️ used |
 | AbortController | 🤷 unknown | ⟶  | 🖐️ used |
@@ -181,7 +177,7 @@ Total: you have `21` of `37` skills, `16` to be upgraded, and `19` above needed
 | Web Locks API | 👂 heard | ⟶  | 🎓 known |
 | Revealing constructor | 🤷 unknown | ⟶  | 🖐️ used |
 
-Total: you have `42` of `75` skills, `33` to be upgraded, and `40` above needed
+Total: you have `45` of `75` skills, `30` to be upgraded, and `43` above needed
 
 ## [NodeJS](/Skills/NodeJS.md)
 
