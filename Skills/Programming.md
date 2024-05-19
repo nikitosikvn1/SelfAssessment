@@ -211,25 +211,25 @@
   - Interrupts: 🙋 explained
   - Drivers: 🙋 explained
   - Kernel: 🙋 explained
-  - Ring h
-  - Virtual memory e
+  - Ring: 👂 heard
+  - Virtual memory: 🙋 explained
   - File system: 🙋 explained
   - Linux: 🙋 explained
   - Unix: 🙋 explained
-  - BSD e
+  - BSD: 🙋 explained
   - MacOS: 🙋 explained
   - Windows: 🙋 explained
-  - Real-time OS e
-  - Embedded OS e
+  - Real-time OS: 🙋 explained
+  - Embedded OS: 🙋 explained
 - Standards
   - ASCII: 🙋 explained
   - Escape sequence: 🙋 explained
-  - RFC h
-  - IETF h
+  - RFC: 👂 heard
+  - IETF: 👂 heard
   - IANA
-  - IEEE h
+  - IEEE: 👂 heard
   - Base64: 🙋 explained
-  - ECMA h
+  - ECMA: 👂 heard
   - ICANN
   - ISO: 🙋 explained
   - MIME: 🎓 known
