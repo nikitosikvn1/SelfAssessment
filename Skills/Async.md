@@ -55,9 +55,9 @@
   - Async Pool: 🙋 explained
   - Async Queue: 🙋 explained
   - Async Collector
-  - Semaphore
-  - Mutex
-  - Spin Lock
+  - Semaphore e
+  - Mutex e
+  - Spin Lock e
 - JavaScript & Node.js specific
   - Timers: 🙋 explained
   - `setImmediate`: 👂 heard
